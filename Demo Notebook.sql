@@ -18,3 +18,8 @@ select * from test;
 
 -- MAGIC %python
 -- MAGIC myprint()
+
+-- COMMAND ----------
+
+-- MAGIC %python
+-- MAGIC #Sample
